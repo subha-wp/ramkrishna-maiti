@@ -31,13 +31,13 @@ export default function Home() {
         <div className="flex items-center md:gap-2 justify-between w-full">
           <Image
             className="dark:invert"
-            src="/ramkrishna-maiti.png"
+            src="/codvix-black.svg"
             alt="Ramkrishna Maiti"
-            width={80}
-            height={80}
+            width={100}
+            height={100}
             priority
           />
-          <h3 className="text-xl font-bold">Ramkrishna Maiti</h3>
+          <h3 className="font-bold">+91 1169313594</h3>
         </div>
         <SIPCalculator />
         <AdvisorSetup
