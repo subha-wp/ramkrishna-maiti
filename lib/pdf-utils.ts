@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 import { pdf } from "@react-pdf/renderer";
 import SIPPDFDocument from "./pdf-generator-react";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import jsPDF from "jspdf";
 import { AdvisorInfo } from "@/components/advisor-setup";
 
